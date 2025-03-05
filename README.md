@@ -83,4 +83,4 @@ The dataset used for this analysis was sourced from **Kaggle** and contains **1,
 ## How to Use  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/mindmasterparav/facebook-ad-analysis.git
+   git clone https://github.com/Paravk2004/facebook-ad-analysis.git
